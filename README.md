@@ -17,9 +17,12 @@ using the print function, display the distance between the two points.
 ### Step 5: 
 End the program.
 ### PROGRAM:
-# Developed by:Rudesh kannaR 
-# Register no:24900303
 ```
+Developed by:Rudesh kannaR 
+Register no:24900303
+
+
+
 import math 
 l1 = [4,2]
 l2 = [10,6]
