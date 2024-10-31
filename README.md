@@ -19,14 +19,20 @@ End the program.
 ### PROGRAM:
 
   #Developed by:Jude Clement Jose
+
   #Register no:24005310
+
   import math
   
+
   x1, y1 = 4, 2
+
   x2, y2 = 10, 6
   
+ 
   distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
   
+
   print(f"{distance:.2f}")
 
 ### OUTPUT:
