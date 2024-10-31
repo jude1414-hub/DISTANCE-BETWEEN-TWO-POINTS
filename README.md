@@ -17,6 +17,7 @@ using the print function, display the distance between the two points.
 ### Step 5: 
 End the program.
 ### PROGRAM:
+'''
 #Developed by:Jude Clement Jose
 #Register no:24005310
 import math
@@ -27,7 +28,7 @@ x2, y2 = 10, 6
 distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
 
 print(f"{distance:.2f}")
-
+'''
 ### OUTPUT:
 ![Screenshot 2024-10-27 205316](https://github.com/user-attachments/assets/32453db4-a68b-4207-a384-d24ba2a05464)
 
