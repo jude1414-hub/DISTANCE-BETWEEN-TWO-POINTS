@@ -1,3 +1,5 @@
+# Date :
+# Exp no 3
 # DISTANCE-BETWEEN-TWO-POINTS
 
 ## AIM:
@@ -8,20 +10,27 @@ Using import math function,do the calculations.
 ### Step 2: 
 Take the two coordinates as l1 and l2.
 ### Step 3: 
-Substitute the values in the distance formula
-
-![formula](./images/formula.png)
+Substitute the values in the distance formula 
+![formula](/formula.JPG)
 ### Step 4: 
 using the print function, display the distance between the two points.
 ### Step 5: 
-End the program. 
+End the program.
 ### PROGRAM:
- ![Screenshot 2024-10-31 205822](https://github.com/user-attachments/assets/3c9d07cd-f74b-49ad-8285-554baba3f1d8)
+#Developed by:Jude Clement Jose
+#Register no:24005310
+import math
 
+x1, y1 = 4, 2
+x2, y2 = 10, 6
 
+distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
+
+print(f"{distance:.2f}")
 
 ### OUTPUT:
-![Screenshot 2024-10-31 205101](https://github.com/user-attachments/assets/4a604e58-ae92-4ffa-8be9-b8438d290bc9)
+![Screenshot 2024-10-27 205316](https://github.com/user-attachments/assets/32453db4-a68b-4207-a384-d24ba2a05464)
 
 
 ### RESULT:
+Thus the distance of the two points is sucessfully executed and displayed.
