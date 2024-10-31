@@ -16,16 +16,8 @@ using the print function, display the distance between the two points.
 ### Step 5: 
 End the program. 
 ### PROGRAM:
-# Developed by:Jude Clement Jose
-# Register no:24005310
-import math
+ ![Screenshot 2024-10-31 205822](https://github.com/user-attachments/assets/3c9d07cd-f74b-49ad-8285-554baba3f1d8)
 
-x1, y1 = 4, 2
-x2, y2 = 10, 6
-
-distance = math.sqrt((x2 - x1)**2 + (y2 - y1)**2)
-
-print(f"{distance:.2f}")  
 
 
 ### OUTPUT:
